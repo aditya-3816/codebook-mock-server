@@ -238,12 +238,5 @@
     }
   ],
   "orders": [],
-  "users": [
-    {
-      "email": "abhi@example.com",
-      "password": "$2a$10$Nj53n0r1hRkr4gAvKEDLu.3JgqXuF6qO/3GcI5mAjAsUeKjpZqEli",
-      "name": "Abhinav",
-      "id": 1
-    }
-  ]
+  "users": []
 }
