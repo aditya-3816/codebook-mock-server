@@ -1,6 +1,7 @@
 import express from "express";
-import jsonServer from "json-server";
 import auth from "json-server-auth";
+import jsonServer from "json-server";
+
 
 const server = express();
 server.use((req, res, next) => {
